@@ -1,0 +1,260 @@
+[{
+  "_id": {
+    "$oid": "622a09ec611c6e1f9ed98cd6"
+  },
+  "inventory_number": "Computer1",
+  "was_bought": {
+    "$date": "2019-12-29T22:00:00Z"
+  },
+  "guarantee_until": {
+    "$date": "2022-12-28T22:00:00Z"
+  },
+  "processor": "Intel Core i3",
+  "RAM": 8024,
+  "HDD": 500,
+  "software": [
+    "Visual Studio",
+    "Unity",
+    "Jira",
+    "JetBrains Rider"
+  ]
+},{
+  "_id": {
+    "$oid": "622a0f54611c6e1f9ed98cd7"
+  },
+  "inventory_number": "Computer2",
+  "was_bought": {
+    "$date": "2010-12-29T22:00:00Z"
+  },
+  "guarantee_until": {
+    "$date": "2012-12-28T22:00:00Z"
+  },
+  "processor": "Intel Core i2",
+  "RAM": 4024,
+  "HDD": 500,
+  "software": [
+    "Visual Studio",
+    "Visual Studio Code"
+  ]
+},{
+  "_id": {
+    "$oid": "622a0fa2611c6e1f9ed98cd8"
+  },
+  "inventory_number": "Computer3",
+  "was_bought": {
+    "$date": "2015-10-17T22:00:00Z"
+  },
+  "guarantee_until": {
+    "$date": "2017-10-18T22:00:00Z"
+  },
+  "processor": "Intel Core i3",
+  "RAM": 8024,
+  "HDD": 1000,
+  "software": [
+    "Blender",
+    "Microsoft Word",
+    "Photoshop"
+  ]
+},{
+  "_id": {
+    "$oid": "622a0ffb611c6e1f9ed98cd9"
+  },
+  "inventory_number": "Computer4",
+  "was_bought": {
+    "$date": "2021-10-17T22:00:00Z"
+  },
+  "guarantee_until": {
+    "$date": "2025-10-18T22:00:00Z"
+  },
+  "processor": "AMD Ryzen 3",
+  "RAM": 16048,
+  "HDD": 2000,
+  "software": [
+    "Eclipse",
+    "Sourcetree"
+  ]
+},{
+  "_id": {
+    "$oid": "622a104c611c6e1f9ed98cda"
+  },
+  "inventory_number": "Computer5",
+  "was_bought": {
+    "$date": "2017-10-17T22:00:00Z"
+  },
+  "guarantee_until": {
+    "$date": "2018-10-18T22:00:00Z"
+  },
+  "processor": "AMD Ryzen 3",
+  "RAM": 8048,
+  "HDD": 2000,
+  "software": [
+    "Jira",
+    "Visual Studio",
+    "Unity"
+  ]
+},{
+  "_id": {
+    "$oid": "622a10ad611c6e1f9ed98cdb"
+  },
+  "inventory_number": "Computer6",
+  "was_bought": {
+    "$date": "2021-10-17T22:00:00Z"
+  },
+  "guarantee_until": {
+    "$date": "2023-10-18T22:00:00Z"
+  },
+  "processor": "Intel Core i5",
+  "RAM": 8048,
+  "HDD": 2000,
+  "software": [
+    "Visual Studio",
+    "Unity"
+  ]
+},{
+  "_id": {
+    "$oid": "622a10e9611c6e1f9ed98cdc"
+  },
+  "inventory_number": "Computer7",
+  "was_bought": {
+    "$date": "2019-10-17T22:00:00Z"
+  },
+  "guarantee_until": {
+    "$date": "2020-10-18T22:00:00Z"
+  },
+  "processor": "Intel Core i7",
+  "RAM": 8048,
+  "HDD": 1000,
+  "software": [
+    "Microsoft Word",
+    "Eclipse",
+    "Blender"
+  ]
+},{
+  "_id": {
+    "$oid": "622a112d611c6e1f9ed98cdd"
+  },
+  "inventory_number": "Computer8",
+  "was_bought": {
+    "$date": "2020-10-17T22:00:00Z"
+  },
+  "guarantee_until": {
+    "$date": "2021-10-18T22:00:00Z"
+  },
+  "processor": "Intel Xeon E3",
+  "RAM": 16048,
+  "HDD": 2000,
+  "software": [
+    "Photoshop",
+    "Jira",
+    "Sourcetree"
+  ]
+},{
+  "_id": {
+    "$oid": "622a1164611c6e1f9ed98cde"
+  },
+  "inventory_number": "Computer9",
+  "was_bought": {
+    "$date": "2021-10-17T22:00:00Z"
+  },
+  "guarantee_until": {
+    "$date": "2023-10-18T22:00:00Z"
+  },
+  "processor": "AMD Ryzen 7",
+  "RAM": 16048,
+  "HDD": 2000,
+  "software": [
+    "Visual Studio Code",
+    "Unity",
+    "Sourcetree",
+    "JetBrains Rider"
+  ]
+},{
+  "_id": {
+    "$oid": "622a11a4611c6e1f9ed98cdf"
+  },
+  "inventory_number": "Computer10",
+  "was_bought": {
+    "$date": "2014-10-17T22:00:00Z"
+  },
+  "guarantee_until": {
+    "$date": "2016-10-18T22:00:00Z"
+  },
+  "processor": "Intel Pentium",
+  "RAM": 8048,
+  "HDD": 2000,
+  "software": [
+    "Sourcetree",
+    "JetBrains Rider"
+  ]
+},{
+  "_id": {
+    "$oid": "622a13a0611c6e1f9ed98ce0"
+  },
+  "inventory_number": "Computer11",
+  "was_bought": {
+    "$date": "2014-10-17T22:00:00Z"
+  },
+  "guarantee_until": {
+    "$date": "2016-10-18T22:00:00Z"
+  },
+  "processor": "Intel Celeron",
+  "RAM": 8048,
+  "HDD": 2000,
+  "software": [
+    "Eclipse"
+  ]
+},{
+  "_id": {
+    "$oid": "622a13eb611c6e1f9ed98ce1"
+  },
+  "inventory_number": "Computer12",
+  "was_bought": {
+    "$date": "2015-10-17T22:00:00Z"
+  },
+  "guarantee_until": {
+    "$date": "2018-10-18T22:00:00Z"
+  },
+  "processor": "AMD Athlon",
+  "RAM": 8048,
+  "HDD": 2000,
+  "software": [
+    "Microsoft Word",
+    "Visual Studio Code",
+    "Jira"
+  ]
+},{
+  "_id": {
+    "$oid": "622b4131611c6e1f9ed98ce3"
+  },
+  "inventory_number": "Computer14",
+  "was_bought": {
+    "$date": "2012-10-17T22:00:00Z"
+  },
+  "guarantee_until": {
+    "$date": "2013-10-18T22:00:00Z"
+  },
+  "processor": "AMD Athlon",
+  "RAM": 4048,
+  "HDD": 1000,
+  "software": [
+    "Microsoft Word"
+  ]
+},{
+  "_id": {
+    "$oid": "622b6b02611c6e1f9ed98ce4"
+  },
+  "inventory_number": "Computer15",
+  "was_bought": {
+    "$date": "2017-10-17T22:00:00Z"
+  },
+  "guarantee_until": {
+    "$date": "2018-10-18T22:00:00Z"
+  },
+  "processor": "Intel Celeron",
+  "RAM": 4048,
+  "HDD": 2000,
+  "software": [
+    "Visual Studio",
+    "Microsoft Word"
+  ]
+}]
